@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unique Cafe</string>
+    <string name="proprietor">Khushahal Joshi</string>
+    <string name="address1">65, Shakti Nagar</string>
+    <string name="address2">Triveni Crossing, Gopalpura</string>
+    <string name="address3">Jaipur, Rajasthan</string>
+    <string name="email">uniquecafe@gmail.com</string>
+    <string name="mob">9680580214</string>
+    <string name="phone">0141-2504470</string>
+
+</resources>
